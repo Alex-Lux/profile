@@ -34,6 +34,10 @@ a {
   padding: 50px auto;
 }
 
+a:hover {
+  color: black;
+}
+
 .card_img {
   width: 100%;
 }
